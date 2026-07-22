@@ -1,0 +1,5 @@
+kind: ENHANCEMENTS
+body: Skip TF-Actions execution when using terraform test
+time: 2026-07-22T18:30:59.545964+02:00
+custom:
+  Issue: "1"
